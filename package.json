@@ -1,7 +1,7 @@
 {
-  "name": "your-project-name",
+  "name": "WeConnect Website Backend",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "This is the backend for the WeConnect website",
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js",
