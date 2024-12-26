@@ -32,3 +32,5 @@ This project is a Node.js application that uses Express.js to create a RESTful A
 
 - **Database Configuration**: Ensuring the database connection is correctly configured and handling potential connection errors.
 - **Error Handling**: Implementing robust error handling to provide meaningful error messages and status codes.# DISC-Discovery-Application-Backend
+
+Enjoy your backend!
