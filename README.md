@@ -18,3 +18,5 @@ This backend provides REST API endpoints to handle user profiles, authentication
 - CORS - Cross-origin resource sharing
 - dotenv - Environment configuration
 
+## Enjoy your backend! 
+
